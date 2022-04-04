@@ -8,7 +8,7 @@ The App offers the following features:
 * Allow users to search series by name.
 * The listing and search views show the name and poster image of the series.
 * After clicking on a series, the application shows the details of the series with the following information:
- * Name
+   * Name
  * Poster
  * Days and time during which the series airs
  * Genres
