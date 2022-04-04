@@ -9,18 +9,18 @@ The App offers the following features:
 * The listing and search views show the name and poster image of the series.
 * After clicking on a series, the application shows the details of the series with the following information:
    * Name
- * Poster
- * Days and time during which the series airs
- * Genres
- * Summary
- * List of episodes separated by season
+   * Poster
+   * Days and time during which the series airs
+   * Genres
+   * Summary
+   * List of episodes separated by season
   
 * After clicking on an episode, the application shows the episode’s information, including:
- * Name
- * Number
- * Season
- * Summary
- * Image, if there is one
+   * Name
+   * Number
+   * Season
+   * Summary
+   * Image, if there is one
 
 # How to run it
 
