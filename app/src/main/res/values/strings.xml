@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TVMaze</string>
+    <string name="genres">Genres</string>
+    <string name="schedule">Schedule</string>
+    <string name="summary">Summary</string>
+    <string name="loading_series_list_first_page">Loading, please wait</string>
+    <string name="searching_for_results">searching for results</string>
+    <string name="loading_series_details">Loading series details</string>
+    <string name="loading_seasons_and_episodes">Loading seasons and episodes</string>
+    <string name="seasons_and_episodes">Seasons and episodes</string>
+    <string name="loading_series_list_next_page">Loading next page</string>
+    <string name="season">Season %d</string>
+    <string name="season_number">Season number</string>
+    <string name="episode_number">Episode number</string>
+    <string name="episode_name">Episode name</string>
+    <string name="loading_episode_details">Loading episode details</string>
+    <string name="write_the_name_of_the_series">write the name of the series</string>
+    <string name="waiting_to_search">Introduce a word in the App Bar to search series with this name</string>
+    <string name="there_are_no_results">There are no results for this search</string>
+</resources>
